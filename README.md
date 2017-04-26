@@ -12,7 +12,7 @@ Ccdatadanalysisnew_3.py : Clean complaints database company name and then break 
 
 Mediaanalysis_4.py : Break the mediadata into 2016 and 2017 and create index
 
-Media_complaints_analysis_5.py : create a union table between ccdata and mediadata on the most current months data. And then combined with previous months data  to create the complaints_media_analysis_combined table. please note we have inputted one formula for generating 201601-201704 , this only needs to be excuted once when you initally setup in a new instance, afterwards this formula can be greyed out..
+Media_complaints_analysis_5.py : create a union table between ccdata and mediadata on the most current months data. And then combined with previous months data  to create the complaints_media_analysis_combined table. 
 
 Top_company_media_analysis_6.py : create the complaints vs media analysis table for each of the top 6 banks
 
